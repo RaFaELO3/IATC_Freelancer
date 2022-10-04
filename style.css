@@ -184,7 +184,6 @@ a {
     opacity: 0;
     position: absolute;
     top: 0;
-    left: 22px;
     height: 100%;
     transition: 0.3s all;
 }
