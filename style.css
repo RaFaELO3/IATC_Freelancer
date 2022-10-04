@@ -72,6 +72,9 @@ a {
     padding: 2.3rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
+    position: fixed;
+    width: 100%;
+    z-index: 4;
 }
 
 .navbar a {
@@ -112,7 +115,7 @@ a {
 
 .cover img {
     width: 15%;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .cover p {
